@@ -15,7 +15,7 @@ A brief ([`00-brief.md`](00-brief.md)) asking for a careful in-house review for 
 | File | What it is |
 |---|---|
 | [`01-fictional-msa.md`](01-fictional-msa.md) / [`.docx`](01-fictional-msa.docx) | The fictional master services agreement with the seven planted problems |
-| [`02-texas-baseline-playbook-v2.md`](02-texas-baseline-playbook-v2.md) | A 15-rule Texas playbook: rule, Must/Should/Nice, Texas citation, fallback language |
+| [`02-texas-baseline-playbook-v2.md`](02-texas-baseline-playbook-v2.md) | A 17-rule Texas playbook: rule, Must/Should/Nice, Texas citation, fallback language |
 | [`03-redline-v2.docx`](03-redline-v2.docx) / [`.md`](03-redline-v2.md) | A redline of only the flagged clauses, as real Word tracked changes |
 | [`04-risk-memo-v2.pdf`](04-risk-memo-v2.pdf) / [`.md`](04-risk-memo-v2.md) | A two-page plain-English risk memo for the operations lead |
 | [`05-citation-audit.md`](05-citation-audit.md) | AutoClaw's own citation audit of its first draft |
